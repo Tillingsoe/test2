@@ -1,1 +1,2 @@
 linie 1 i test1.txt
+linie 2 i test1.txt
