@@ -1,1 +1,2 @@
 linje 1 i serverfile2.txt
+linje 2 i serverfile2.txt
