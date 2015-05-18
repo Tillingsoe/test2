@@ -1,0 +1,1 @@
+linje 1 i serverfile1.txt
