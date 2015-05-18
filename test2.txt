@@ -1,1 +1,1 @@
-linie 1 i test2.txt
+linie 2 i test2.txt
